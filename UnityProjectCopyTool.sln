@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityProjectCopyTool", "UnityProjectCopyTool\UnityProjectCopyTool.csproj", "{454331CD-E8B7-4964-8708-E76CCB08778F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454331CD-E8B7-4964-8708-E76CCB08778F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454331CD-E8B7-4964-8708-E76CCB08778F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454331CD-E8B7-4964-8708-E76CCB08778F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454331CD-E8B7-4964-8708-E76CCB08778F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18088256-EA88-4929-834B-10CB752D622E}
+	EndGlobalSection
+EndGlobal
